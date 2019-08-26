@@ -1,1 +1,2 @@
-Git test
+Changes test 
+This text file is for demo purpose
