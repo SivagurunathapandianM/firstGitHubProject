@@ -1,14 +1,3 @@
-Changes test 
-This text file is for demo purpose
+hello world !!
 
-demo is smooth and good
-
-
-
-hello world !! 
-
-Sivaugurnathpandian Murgan is working in the GIT project
-
-Stay focussed and dont give up.
-Sriramajayam
-Jaibajaranga bali
+Sivagurunathapandian Murugan
